@@ -165,6 +165,7 @@
                 style="@style/TextAppearance.AppCompat.Caption"
                 android:text="You can access classes anytime"
                 android:textColor="@color/white"/>
+            
         </LinearLayout>
         <Button
             android:background="@drawable/bg_btn"
